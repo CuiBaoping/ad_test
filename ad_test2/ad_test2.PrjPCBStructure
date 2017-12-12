@@ -1,0 +1,5 @@
+Record=TopLevelDocument|FileName=ad_test2_top.SchDoc
+Record=SheetSymbol|SourceDocument=ad_test2_top.SchDoc|Designator=LCD|SchDesignator=LCD|FileName=LCD.SchDoc|SymbolType=Normal|RawFileName=LCD.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=ad_test2_top.SchDoc|Designator=MCU|SchDesignator=MCU|FileName=MCU.SchDoc|SymbolType=Normal|RawFileName=MCU.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=ad_test2_top.SchDoc|Designator=Power|SchDesignator=Power|FileName=Power.SchDoc|SymbolType=Normal|RawFileName=Power.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=ad_test2_top.SchDoc|Designator=Sensor|SchDesignator=Sensor|FileName=Sensor.SchDoc|SymbolType=Normal|RawFileName=Sensor.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
