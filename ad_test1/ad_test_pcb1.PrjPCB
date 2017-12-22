@@ -105,6 +105,35 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
+[Document5]
+DocumentPath=ad_test_PCB1.PcbDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=HYBLIAUL
+
+[GeneratedDocument1]
+DocumentPath=ad_test_PCB1 2017-12-22 9-50-57.WAS
+DItemRevisionGUID=
+
+[GeneratedDocument2]
+DocumentPath=ad_test_PCB1 2017-12-22 14-05-44.WAS
+DItemRevisionGUID=
+
+[GeneratedDocument3]
+DocumentPath=Project Outputs for ad_test_pcb1\Design Rule Check - ad_test_PCB1.html
+DItemRevisionGUID=
+
 [Configuration1]
 Name=Sources
 ParameterCount=0
