@@ -224,15 +224,61 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
+[Document12]
+DocumentPath=Project Outputs for ad_test2_IntLib\ad_test2_IntLib.IntLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document13]
+DocumentPath=ad_test2_PCB_4.PcbDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=TWOLOVNW
+
 [GeneratedDocument1]
-DocumentPath=C:\Users\Public\Documents\Altium\AD18\Library\MyLib\TCN75.cmp
+DocumentPath=ad_test2_PCB 2017-12-28 10-46-59.WAS
 DItemRevisionGUID=
 
 [GeneratedDocument2]
-DocumentPath=C:\Users\Public\Documents\Altium\AD18\Library\MyLib\TCN75.csv
+DocumentPath=ad_test2_PCB 2017-12-28 10-49-00.WAS
 DItemRevisionGUID=
 
 [GeneratedDocument3]
+DocumentPath=Project Outputs for ad_test2\Design Rule Check - ad_test2_PCB.html
+DItemRevisionGUID=
+
+[GeneratedDocument4]
+DocumentPath=C:\Users\Public\Documents\Altium\AD18\Library\MyLib\TCN75.cmp
+DItemRevisionGUID=
+
+[GeneratedDocument5]
+DocumentPath=C:\Users\Public\Documents\Altium\AD18\Library\MyLib\TCN75.csv
+DItemRevisionGUID=
+
+[GeneratedDocument6]
 DocumentPath=C:\Users\Public\Documents\Altium\AD18\Library\MyLib\TCN75.rep
 DItemRevisionGUID=
 
