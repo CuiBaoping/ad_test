@@ -1,0 +1,17 @@
+Removed Pin From Net: NetName=GND Pin=J1-1A
+Removed Pin From Net: NetName=GND Pin=J1-1B
+Removed Pin From Net: NetName=GND Pin=J1-1
+Removed Pin From Net: NetName=5V Pin=J1-2A
+Removed Pin From Net: NetName=5V Pin=J1-2B
+Removed Pin From Net: NetName=5V Pin=J1-2
+Added Pin To Net: NetName=5V Pin=J1-1A
+Added Pin To Net: NetName=5V Pin=J1-1B
+Added Pin To Net: NetName=5V Pin=J1-1
+Added Pin To Net: NetName=GND Pin=J1-2A
+Added Pin To Net: NetName=GND Pin=J1-2B
+Added Pin To Net: NetName=GND Pin=J1-2
+Added Room: Name=ad_test2_top
+Added Room: Name=LCD
+Added Room: Name=MCU
+Added Room: Name=Power
+Added Room: Name=Sensor
