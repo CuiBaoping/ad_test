@@ -1,7 +1,7 @@
 Protel Design System Design Rule Check
 PCB File : E:\cbp\test\ad_test\ad_test2\ad_test2_PCB_4_Temp.PcbDoc
-Date     : 2018/1/2
-Time     : 17:32:37
+Date     : 2018/1/4
+Time     : 11:12:42
 
 WARNING: Zero hole size multi-layer pad(s) detected
    Pad J1-3(249.016mil,263.15mil) on Multi-Layer on Net GND
