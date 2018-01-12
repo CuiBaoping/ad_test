@@ -1,0 +1,24 @@
+Added Component: Designator=J1(KLD-0202)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://domino.kycon.com/internet/Products.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetDocument"; Value = "09-May-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "17-Dec-2003"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=5V Pin=J1-1A
+Added Pin To Net: NetName=5V Pin=J1-1B
+Added Pin To Net: NetName=5V Pin=J1-1
+Added Pin To Net: NetName=GND Pin=J1-2A
+Added Pin To Net: NetName=GND Pin=J1-2B
+Added Pin To Net: NetName=GND Pin=J1-2
+Added Pin To Net: NetName=GND Pin=J1-3A
+Added Pin To Net: NetName=GND Pin=J1-3B
+Added Pin To Net: NetName=GND Pin=J1-3
+Added Member To Class: ClassName=Power Member=Component J1 PWR2.5
+Added Member To Class: ClassName=LCD Member=Component LCD1 DMC-50448N
+Added Member To Class: ClassName=ad_test2_top Member=Component P1 Header 3X2
+Added Room: Name=ad_test2_top
+Added Room: Name=LCD
+Added Room: Name=MCU
+Added Room: Name=Power
+Added Room: Name=Sensor

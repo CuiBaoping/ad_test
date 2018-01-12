@@ -1,25 +1,23 @@
 Protel Design System Design Rule Check
 PCB File : E:\cbp\test\ad_test\ad_test2\ad_test2_PCB_Temp.PcbDoc
-Date     : 2018/1/11
-Time     : 17:09:38
-
-WARNING: Design contains shelved or modified (but not repoured) polygons. The result of DRC is not correct. Recommended to restore/repour all polygons and proceed with DRC again
-   Polygon named: GND_L01_P008 In net GND On Top Layer
+Date     : 2018/1/12
+Time     : 14:52:44
 
 WARNING: Zero hole size multi-layer pad(s) detected
-   Pad J1-1(9.093mm,11.786mm) on Multi-Layer on Net 5V
-   Pad J1-2(2.893mm,11.786mm) on Multi-Layer on Net GND
-   Pad J1-3(5.893mm,6.786mm) on Multi-Layer on Net GND
+   Pad J1-1(370mil,461.213mil) on Multi-Layer on Net 5V
+   Pad J1-2(125.906mil,461.213mil) on Multi-Layer on Net GND
+   Pad J1-3(244.016mil,264.362mil) on Multi-Layer on Net GND
 
 WARNING: Multilayer Pads with 0 size Hole found
-   Pad J1-1(9.093mm,11.786mm) on Multi-Layer
-   Pad J1-2(2.893mm,11.786mm) on Multi-Layer
-   Pad J1-3(5.893mm,6.786mm) on Multi-Layer
+   Pad J1-1(370mil,461.213mil) on Multi-Layer
+   Pad J1-2(125.906mil,461.213mil) on Multi-Layer
+   Pad J1-3(244.016mil,264.362mil) on Multi-Layer
 
-Processing Rule : Clearance Constraint (Gap=0.254mm) (All),(All)
-   Violation between Clearance Constraint: (0.252mm < 0.254mm) Between Region (0 hole(s)) Top Layer And Track (39.104mm,5.805mm)(40.997mm,5.805mm) on Top Layer 
-   Violation between Clearance Constraint: (0.252mm < 0.254mm) Between Region (0 hole(s)) Top Layer And Track (40.997mm,5.805mm)(41.504mm,6.311mm) on Top Layer 
-Rule Violations :2
+Processing Rule : Clearance Constraint (Gap=10mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=20mil) ((InNetClass('All Nets') AND InPolygon)),(OnLayer('Keep-Out Layer'))
+Rule Violations :0
 
 Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
 Rule Violations :0
@@ -28,37 +26,36 @@ Processing Rule : Un-Routed Net Constraint ( (All) )
 Rule Violations :0
 
 Processing Rule : Modified Polygon (Allow modified: No), (Allow shelved: No)
-   Violation between Modified Polygon: Polygon Not Repour After Edit  (GND_L01_P008) on Top Layer 
-Rule Violations :1
-
-Processing Rule : Width Constraint (Min=0.203mm) (Max=0.508mm) (Preferred=0.254mm) (All)
 Rule Violations :0
 
-Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=0.508mm) (Conductor Width=0.254mm) (Air Gap=0.254mm) (Entries=4) (All)
+Processing Rule : Width Constraint (Min=8mil) (Max=20mil) (Preferred=10mil) (All)
 Rule Violations :0
 
-Processing Rule : Hole Size Constraint (Min=0.025mm) (Max=5.08mm) (All)
+Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=20mil) (Conductor Width=10mil) (Air Gap=10mil) (Entries=4) (All)
 Rule Violations :0
 
-Processing Rule : Hole To Hole Clearance (Gap=0.254mm) (All),(All)
+Processing Rule : Hole Size Constraint (Min=1mil) (Max=200mil) (All)
 Rule Violations :0
 
-Processing Rule : Minimum Solder Mask Sliver (Gap=0.127mm) (All),(All)
+Processing Rule : Hole To Hole Clearance (Gap=10mil) (All),(All)
 Rule Violations :0
 
-Processing Rule : Silk To Solder Mask (Clearance=0.025mm) (IsPad),(All)
+Processing Rule : Minimum Solder Mask Sliver (Gap=5mil) (All),(All)
 Rule Violations :0
 
-Processing Rule : Silk to Silk (Clearance=0.025mm) (All),(All)
+Processing Rule : Silk To Solder Mask (Clearance=1mil) (IsPad),(All)
 Rule Violations :0
 
-Processing Rule : Net Antennae (Tolerance=0mm) (All)
+Processing Rule : Silk to Silk (Clearance=1mil) (All),(All)
 Rule Violations :0
 
-Processing Rule : Height Constraint (Min=0mm) (Max=25.4mm) (Prefered=12.7mm) (All)
+Processing Rule : Net Antennae (Tolerance=0mil) (All)
+Rule Violations :0
+
+Processing Rule : Height Constraint (Min=0mil) (Max=1000mil) (Prefered=500mil) (All)
 Rule Violations :0
 
 
-Violations Detected : 3
+Violations Detected : 0
 Waived Violations : 0
-Time Elapsed        : 00:00:01
+Time Elapsed        : 00:00:00
