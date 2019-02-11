@@ -1,0 +1,25 @@
+Removed Member From Class: ClassName=LCD Member=R3
+Removed Member From Class: ClassName=Power Member=R3
+Removed Member From Class: ClassName=MCU Member=U2
+Change Component Designator: OldDesignator=C2 NewDesignator=C3
+Change Component Designator: OldDesignator=C3 NewDesignator=C4
+Change Component Designator: OldDesignator=C4 NewDesignator=C5
+Change Component Designator: OldDesignator=C5 NewDesignator=C6
+Change Component Designator: OldDesignator=C6 NewDesignator=C2
+Change Component Designator: OldDesignator=R1 NewDesignator=R7
+Change Component Designator: OldDesignator=R2 NewDesignator=R6
+Change Component Designator: OldDesignator=R3 NewDesignator=R1
+Change Component Designator: OldDesignator=R4 NewDesignator=R2
+Change Component Designator: OldDesignator=R5 NewDesignator=R8
+Change Component Designator: OldDesignator=R6 NewDesignator=R3
+Change Component Designator: OldDesignator=R7 NewDesignator=R4
+Change Component Designator: OldDesignator=R8 NewDesignator=R5
+Change Component Designator: OldDesignator=U1 NewDesignator=U2
+Change Component Designator: OldDesignator=U2 NewDesignator=U1
+Added Member To Class: ClassName=LCD Member=Component R2 Res3
+Added Member To Class: ClassName=Power Member=Component R6 Res3
+Added Room: Name=LCD
+Added Room: Name=MCU
+Added Room: Name=PCB_AD_Top
+Added Room: Name=Power
+Added Room: Name=Sensor

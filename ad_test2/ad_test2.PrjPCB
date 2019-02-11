@@ -157,23 +157,6 @@ GenerateClassCluster=0
 DocumentUniqueId=CNQPNIOW
 
 [Document8]
-DocumentPath=C:\Users\Public\Documents\Altium\AD18\Library\¹ÙÍø¿â_20171207\Libraries\Microchip\Microchip Microcontroller 8-Bit PIC16.IntLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
-[Document9]
 DocumentPath=ad_test2_PCB_Temp.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -190,7 +173,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=IVGMFINM
 
-[Document10]
+[Document9]
 DocumentPath=ad_test2_PCB_M.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -207,7 +190,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=VANARCES
 
-[Document11]
+[Document10]
 DocumentPath=ad_test2_PCB.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -224,41 +207,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=YKCTPSWW
 
-[Document12]
-DocumentPath=C:\Users\Public\Documents\Altium\AD18\Library\¹ÙÍø¿â_20171207\Libraries\Texas Instruments\TI Power Mgt Voltage Regulator.IntLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
-[Document13]
-DocumentPath=C:\Users\Public\Documents\Altium\AD18\Library\¹ÙÍø¿â_20171207\Libraries\Texas Instruments\TI Power Mgt Voltage Reference.IntLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
-[Document14]
+[Document11]
 DocumentPath=ad_test2_PCB_4.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -275,7 +224,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=TWOLOVNW
 
-[Document15]
+[Document12]
 DocumentPath=ad_test2_PCB_4_Temp.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -290,9 +239,9 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=TWOLOVNW
+DocumentUniqueId=SCJQHHCA
 
-[Document16]
+[Document13]
 DocumentPath=ad_test2.IntLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -323,18 +272,6 @@ DItemRevisionGUID=
 
 [GeneratedDocument4]
 DocumentPath=Project Outputs for ad_test2\Design Rule Check - ad_test2_PCB_Temp.html
-DItemRevisionGUID=
-
-[GeneratedDocument5]
-DocumentPath=C:\Users\Public\Documents\Altium\AD18\Library\MyLib\TCN75.cmp
-DItemRevisionGUID=
-
-[GeneratedDocument6]
-DocumentPath=C:\Users\Public\Documents\Altium\AD18\Library\MyLib\TCN75.csv
-DItemRevisionGUID=
-
-[GeneratedDocument7]
-DocumentPath=C:\Users\Public\Documents\Altium\AD18\Library\MyLib\TCN75.rep
 DItemRevisionGUID=
 
 [Configuration1]
@@ -456,7 +393,7 @@ OutputDefault20=0
 [OutputGroup2]
 Name=Simulator Outputs
 Description=
-TargetPrinter=Microsoft Print to PDF
+TargetPrinter=HP LaserJet Pro MFP M225-M226 PCL 6
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 
 [OutputGroup3]

@@ -1,0 +1,7 @@
+Change Component Footprint: Designator=C2 Old Footprint=0805_C New Footprint=CASE-A_3216
+Change Component Footprint: Designator=C3 Old Footprint=0805_C New Footprint=CASE-A_3216
+Added Room: Name=LCD
+Added Room: Name=MCU
+Added Room: Name=PCB_AD_Top
+Added Room: Name=Power
+Added Room: Name=Sensor

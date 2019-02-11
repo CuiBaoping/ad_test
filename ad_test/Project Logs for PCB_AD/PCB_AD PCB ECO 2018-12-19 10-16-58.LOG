@@ -1,0 +1,61 @@
+Change Component Footprint: Designator=L1 Old Footprint=0402-A New Footprint=0603_L
+Change Component Footprint: Designator=C1 Old Footprint=1608[0603] New Footprint=0603_C
+Change Component Footprint: Designator=C2 Old Footprint=1608[0603] New Footprint=0603_C
+Change Component Footprint: Designator=C5 Old Footprint=1608[0603] New Footprint=0603_C
+Change Component Footprint: Designator=C6 Old Footprint=1608[0603] New Footprint=0603_C
+Change Component Footprint: Designator=C7 Old Footprint=1608[0603] New Footprint=0603_C
+Change Component Footprint: Designator=C3 Old Footprint=C0805 New Footprint=0805_C
+Change Component Footprint: Designator=C4 Old Footprint=C0805 New Footprint=0805_C
+Change Component Footprint: Designator=P1 Old Footprint=HDR2X3 New Footprint=PH2X3
+Change Component Footprint: Designator=R1 Old Footprint=J1-0603 New Footprint=0603_R
+Change Component Footprint: Designator=R2 Old Footprint=J1-0603 New Footprint=0603_R
+Change Component Footprint: Designator=R3 Old Footprint=J1-0603 New Footprint=0603_R
+Change Component Footprint: Designator=R4 Old Footprint=J1-0603 New Footprint=0603_R
+Change Component Footprint: Designator=R5 Old Footprint=J1-0603 New Footprint=0603_R
+Change Component Footprint: Designator=R6 Old Footprint=J1-0603 New Footprint=0603_R
+Change Component Footprint: Designator=R7 Old Footprint=J1-0603 New Footprint=0603_R
+Change Component Footprint: Designator=R8 Old Footprint=J1-0603 New Footprint=0603_R
+Change Component Footprint: Designator=U1 Old Footprint=SOIC-SO20_N New Footprint=SOIC-20_300mil
+Added Component: Designator=LCD1(HDR1X14)
+Add component. Clean all parameters for all variants
+Added Component: Designator=U2(TO-220(TO-220-3))
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.ti.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetVersion"; Value = "Feb-1988"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Note"; Value = "Pin 2 is electrically connected to tab"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "TO, Thru-Hole, Vertical, Heatsink Mounted; 3 In-Line Leads; Pitch 2.54 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "KC03"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageVersion"; Value = "Sep-1995"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "15-Apr-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=U3(SOIC-8_150mil)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=GND Pin=LCD1-1
+Added Pin To Net: NetName=5V Pin=LCD1-2
+Added Pin To Net: NetName=NetLCD1_3 Pin=LCD1-3
+Added Pin To Net: NetName=NetLCD1_4 Pin=LCD1-4
+Added Pin To Net: NetName=NetLCD1_5 Pin=LCD1-5
+Added Pin To Net: NetName=NetLCD1_6 Pin=LCD1-6
+Added Pin To Net: NetName=RB0 Pin=LCD1-7
+Added Pin To Net: NetName=RB1 Pin=LCD1-8
+Added Pin To Net: NetName=RB2 Pin=LCD1-9
+Added Pin To Net: NetName=RB3 Pin=LCD1-10
+Added Pin To Net: NetName=RB4 Pin=LCD1-11
+Added Pin To Net: NetName=RB5 Pin=LCD1-12
+Added Pin To Net: NetName=RB6 Pin=LCD1-13
+Added Pin To Net: NetName=RB7 Pin=LCD1-14
+Added Pin To Net: NetName=NetR6_2 Pin=U2-1
+Added Pin To Net: NetName=3V3 Pin=U2-2
+Added Pin To Net: NetName=5V Pin=U2-3
+Added Pin To Net: NetName=NetP1_1 Pin=U3-1
+Added Pin To Net: NetName=NetP1_3 Pin=U3-2
+Added Pin To Net: NetName=NetP1_5 Pin=U3-3
+Added Pin To Net: NetName=GND Pin=U3-4
+Added Pin To Net: NetName=GND Pin=U3-5
+Added Pin To Net: NetName=GND Pin=U3-6
+Added Pin To Net: NetName=GND Pin=U3-7
+Added Pin To Net: NetName=3V3 Pin=U3-8
+Added Member To Class: ClassName=LCD Member=Component LCD1 DMC-50448N
+Added Member To Class: ClassName=Power Member=Component U2 LM317KCT
+Added Member To Class: ClassName=Sensor Member=Component U3 TCN75-3.3MOA
