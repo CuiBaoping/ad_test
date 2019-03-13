@@ -1,0 +1,10 @@
+Output: Mixed Sim
+Type  : AdvSimNetlist
+From  : Project [ad_Simu_Test.PrjPCB]
+   Generated File[ad_Simu_Test.nsx]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 18:06:52 On 2019/2/28
