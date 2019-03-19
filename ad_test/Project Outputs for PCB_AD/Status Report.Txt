@@ -1,0 +1,17 @@
+Source PCB Design PCB_AD_M.PcbDoc contains embedded board array. It is recomended to generate individual BOM for each embedded board PCB design.
+
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [PCB_AD.PrjPCB]
+   Generated File[PCB_AD_M-RoundHoles-Plated.TXT]
+   Generated File[PCB_AD_M-RoundHoles-NonPlated.TXT]
+   Generated File[PCB_AD_M-SlotHoles-Plated.TXT]
+   Generated File[PCB_AD_M.DRL]
+   Generated File[PCB_AD_M.LDP]
+   Generated File[PCB_AD_M.DRR]
+
+
+Files Generated   : 6
+Documents Printed : 0
+
+Finished Output Generation At 15:29:16 On 2019/3/19
