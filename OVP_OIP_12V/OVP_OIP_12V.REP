@@ -1,0 +1,27 @@
+Teardrop Report OVP_OIP_12V.PcbDoc
+On 2020-09-21 at 10:01:08
+
+Pads visited                : 9
+
+Vias visited                : 2
+
+Pad teardrops failed : 0
+
+Pad F1-1(515.079mil,235mil) on Top Layer
+Pad F1-2(774.921mil,235mil) on Top Layer
+Pad R1-1(370mil,193.268mil) on Top Layer
+Pad R1-2(370mil,226.732mil) on Top Layer
+Pad J1-(1072.205mil,381.976mil) on Mechanical 13
+Pad J1-(973.779mil,193mil) on Mechanical 13
+Pad J1-(1210mil,193mil) on Mechanical 13
+Pad J1-1(973.779mil,193mil) on Multi-Layer
+Pad J1-3(1072.205mil,381.976mil) on Multi-Layer
+Pad J1-2(1210mil,193mil) on Multi-Layer
+Pad GND-1(90mil,90mil) on Multi-Layer
+Pad 12V-1(90mil,325mil) on Multi-Layer
+
+Via teardrops failed : 0
+
+Via (710mil,55mil) from Top Layer to Bottom Layer
+Via (620mil,55mil) from Top Layer to Bottom Layer
+

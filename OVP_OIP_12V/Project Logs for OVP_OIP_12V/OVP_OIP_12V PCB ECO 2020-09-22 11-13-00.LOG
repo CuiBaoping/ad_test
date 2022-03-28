@@ -1,0 +1,5 @@
+Change Component Footprint: Designator=12V Old Footprint=SMDHDRX1_5*3 New Footprint=SMDHDRX1_6*4
+Change Component Footprint: Designator=GND Old Footprint=SMDHDRX1_5*3 New Footprint=SMDHDRX1_6*4
+Change Component Library : Designator=12V Old Library=ADLib_CBP.IntLib New Library=Schlib_Cbp.SchLib
+Change Component Library : Designator=GND Old Library=ADLib_CBP.IntLib New Library=Schlib_Cbp.SchLib
+Added Room: Name=OVP_OIP_12V

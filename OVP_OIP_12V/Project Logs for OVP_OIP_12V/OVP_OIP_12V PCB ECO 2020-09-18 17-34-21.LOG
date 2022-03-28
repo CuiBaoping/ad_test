@@ -1,0 +1,5 @@
+Change Component Footprint: Designator=12V Old Footprint=SMDHDRX1 New Footprint=SMDHDRX1_5*3
+Change Component Footprint: Designator=GND Old Footprint=SMDHDRX1 New Footprint=SMDHDRX1_5*3
+Change Component Designator: OldDesignator=12V NewDesignator=P1
+Change Component Designator: OldDesignator=GND NewDesignator=P2
+Added Room: Name=OVP_OIP_12V

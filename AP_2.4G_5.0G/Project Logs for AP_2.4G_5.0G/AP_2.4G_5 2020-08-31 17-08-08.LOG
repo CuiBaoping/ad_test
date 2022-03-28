@@ -1,0 +1,3 @@
+Change Component Designator: OldDesignator=GND NewDesignator=VCC
+Change Component Designator: OldDesignator=VCC NewDesignator=GND
+Added Room: Name=AP_2.4G_5.0G
